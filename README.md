@@ -1,4 +1,5 @@
 # 🌌 SolarSyst --- Interactive Solar System Simulation
+<img width="1277" height="950" alt="image" src="https://github.com/user-attachments/assets/4408d656-b796-49ee-835e-294199c1a398" />
 
 **Cloud‑ready landing page + native 3D desktop simulation** --- a
 real‑time, OpenGL‑powered solar system visualizer with planetary orbits,
