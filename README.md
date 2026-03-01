@@ -76,11 +76,6 @@ pyinstaller --onefile --windowed solar_system.py
 
 ------------------------------------------------------------------------
 
-## 🖼 Preview
-
-![App Screenshot](./assets/screenshot.png)
-
-------------------------------------------------------------------------
 
 ## 🧠 Design notes
 
